@@ -33,8 +33,6 @@ I enjoy designing backend systems, building APIs, and solving practical problems
 
 ---
 
-# 💻 Terminal
-
 ```bash
 lawrence@github:~$ neofetch
 
@@ -78,47 +76,47 @@ Mission:
 
 ---
 
-# 🚀 Featured Projects
+### Stuff I'm building
 
-## 📈 Business Analytics Platform
+### Business Analytics Platform
 
 Helping small businesses understand customer behavior, predict traffic trends, and make smarter business decisions through analytics.
 
 ---
 
-## 🚜 Smart Farmer Notification System
+### Smart Farmer Notification System
 
 Localized SMS notification platform delivering agricultural updates and recommendations using geospatial information.
 
 ---
 
-## 🤝 Pamoja Build
+### Pamoja Build
 
 A community-driven platform that enables people to fund, contribute to, and earn rewards from impactful community projects.
 
 ---
 
-## 📚 Progress Bar
+### Progress Bar
 
 A productivity platform built for developers to manage long-term goals, learning progress, projects, and career growth.
 
 ---
 
-# ⚙️ Tech Stack
+## Tech Stack
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=go,postgres,docker,git,github,linux" />
 </p>
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
-## Currently Learning
+### Currently Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=redis,nodejs" />
@@ -126,7 +124,7 @@ A productivity platform built for developers to manage long-term goals, learning
 
 ---
 
-# 📈 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
 
@@ -154,9 +152,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=
 
 ---
 
-# 📊 Contribution Graph
+### Contribution Graph
 
-[![Lawrence's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)](https://github.com/YOUR_USERNAME)
+[![Lawrence's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)](https://github.com/LawObare)
 
 ---
 
