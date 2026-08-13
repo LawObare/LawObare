@@ -84,7 +84,7 @@ A personal development and goal-tracking platform designed around the reality of
 
 ### `pamoja-build`
 
-A community development platform that lets small communities in Africa take charge of their own well-being, sanitation and devopment by contributing to projects that impact them. From cleaning streets to clearing bushes, and even building community spaces. Communities can raise bitcoin which volunteers are paid in incetives to help build the community.
+A community development platform that lets small communities in Africa take charge of their own well-being, sanitation and development by contributing to projects that impact them. From cleaning streets to clearing bushes, and even building community spaces. Communities can raise bitcoin which volunteers are paid in incetives to help build the community.
 
 **Exploring:** backend systems · APIs · payments · community technology
 
