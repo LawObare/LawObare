@@ -1,10 +1,12 @@
 <div align="center">
 
+<div align="left">
 ```
 laobare:~$git add new goals
 laobare:~$git commit to them
 laobare:~$git push toward becoming the best version of me
 ```
+</div>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Lawrence+Obare;Backend+Developer+in+Progress;Go+%7C+PostgreSQL+%7C+APIs;Building+software+that+solves+real+problems)](https://git.io/typing-svg)
