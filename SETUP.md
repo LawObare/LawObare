@@ -20,10 +20,12 @@ https://github.com/LawObare
 LawObare/
 ├── README.md
 ├── assets/
-│   └── lawobare-banner.svg
+│   ├── lawobare-banner.svg
+│   └── current-focus.svg
 └── .github/
     └── workflows/
         ├── contribution-snake.yml
+        ├── contribution-graph.yml
         └── profile-3d.yml
 ```
 
@@ -47,26 +49,35 @@ Open:
 
 Repository → Actions
 
-Run:
+Run (manually, once):
 
-- Generate contribution snake
-- Generate 3D contribution profile
+- **Generate 3D contribution profile** — creates `profile-3d-contrib/` on `main`
+- **Generate contribution snake** — creates `snake.svg` / `snake-dark.svg` on the `output` branch
+- **Generate contribution graphics** — creates the Pac-Man graph on the `output-pacman` branch
 
-The first run creates the generated assets.
+Each workflow also runs on a schedule and, where safe, on push.
 
-## 4. What will animate
+## 4. Where generated assets live
+
+```text
+main/        → profile-3d-contrib/profile-night-rainbow.svg   (3D profile)
+output/      → snake.svg, snake-dark.svg                      (contribution snake)
+output-pacman/ → pacman-contribution-graph*.svg               (arcade Pac-Man)
+```
+
+The snake and Pac-Man workflows use **separate branches** on purpose so they never overwrite each other.
+
+## 5. What will animate
 
 The profile uses:
 
 - typing header animation
-- contribution snake animation
-- live GitHub stats
-- live language statistics
-- streak statistics
+- contribution snake animation (dark/light aware)
+- live GitHub telemetry (via github-profile-summary-cards + streak)
 - 3D contribution profile
-- custom SVG visual identity
+- custom SVG visual identity (banner + focus bars)
 
-## 5. Important
+## 6. Important
 
 The profile is deliberately NOT based on your friend's README structure or identity.
 

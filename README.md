@@ -67,19 +67,9 @@ I want to understand **why it works**.
 
 ### What I'm actually working on
 
-```text
-BACKEND
-██████████████████████░░   Go / APIs / PostgreSQL
-
-WEB
-██████████████░░░░░░░░░   JavaScript / React / Vite
-
-WORKFLOW
-███████████████████░░░░   Git / GitHub / Docker / Linux
-
-SYSTEMS
-███████████░░░░░░░░░░░   Learning the deeper fundamentals
-```
+<p align="left">
+<img src="./assets/current-focus.svg" width="100%" alt="Current focus allocation: backend 90%, web 60%, workflow 78%, systems 45%">
+</p>
 
 > The bars aren't skill percentages. They're a snapshot of where my learning energy is going.
 
@@ -168,9 +158,14 @@ Right now, that loop is taking me deeper into:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LawObare&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="LawObare GitHub stats">
+[![Contribution calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LawObare&theme=tokyonight)](https://github.com/LawObare)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawObare&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="LawObare top languages">
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LawObare&theme=tokyonight" alt="Most committed languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LawObare&theme=tokyonight" alt="Top languages by repository">
 
 </div>
 
@@ -186,7 +181,10 @@ Right now, that loop is taking me deeper into:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LawObare/LawObare/output/snake.svg" alt="GitHub contribution snake animation">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LawObare/LawObare/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/LawObare/LawObare/output/snake.svg" alt="GitHub contribution snake animation">
+</picture>
 
 </div>
 

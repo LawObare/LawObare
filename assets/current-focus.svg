@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="focus" x1="0" x2="1">
+      <stop offset="0" stop-color="#00d9ff"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="16" fill="#0a0f16"/>
+
+  <g font-family="monospace">
+    <text x="60" y="54" fill="#7dd3fc" font-size="14" font-weight="700">BUILD FOCUS</text>
+    <text x="60" y="76" fill="#475569" font-size="12">where my learning energy goes right now — not skill</text>
+
+    <text x="60" y="102" fill="#e2e8f0" font-size="16" font-weight="700">BACKEND</text>
+    <rect x="260" y="94" width="760" height="12" rx="6" fill="#1f2937"/>
+    <rect x="260" y="94" width="684" height="12" rx="6" fill="url(#focus)"/>
+    <text x="1043" y="105" fill="#00d9ff" font-size="15">90%</text>
+    <text x="260" y="124" fill="#64748b" font-size="12">Go · PostgreSQL · APIs</text>
+
+    <text x="60" y="152" fill="#e2e8f0" font-size="16" font-weight="700">WEB</text>
+    <rect x="260" y="144" width="760" height="12" rx="6" fill="#1f2937"/>
+    <rect x="260" y="144" width="456" height="12" rx="6" fill="url(#focus)"/>
+    <text x="1043" y="155" fill="#00d9ff" font-size="15">60%</text>
+    <text x="260" y="174" fill="#64748b" font-size="12">JavaScript · React · Vite</text>
+
+    <text x="60" y="202" fill="#e2e8f0" font-size="16" font-weight="700">WORKFLOW</text>
+    <rect x="260" y="194" width="760" height="12" rx="6" fill="#1f2937"/>
+    <rect x="260" y="194" width="593" height="12" rx="6" fill="url(#focus)"/>
+    <text x="1043" y="205" fill="#00d9ff" font-size="15">78%</text>
+    <text x="260" y="224" fill="#64748b" font-size="12">Git · GitHub · Docker · Linux</text>
+
+    <text x="60" y="252" fill="#e2e8f0" font-size="16" font-weight="700">SYSTEMS</text>
+    <rect x="260" y="244" width="760" height="12" rx="6" fill="#1f2937"/>
+    <rect x="260" y="244" width="342" height="12" rx="6" fill="url(#focus)"/>
+    <text x="1043" y="255" fill="#00d9ff" font-size="15">45%</text>
+    <text x="260" y="274" fill="#64748b" font-size="12">memory · concurrency · fundamentals</text>
+  </g>
+</svg>
