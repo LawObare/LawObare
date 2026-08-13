@@ -197,9 +197,9 @@ Right now, that loop is taking me deeper into:
 ```text
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
-│  I want my GitHub to show more than tutorial exercises.   │
+│  I want my GitHub to show more than tutorial exercises.    │
 │                                                            │
-│  → Build useful projects                                  │
+│  → Build useful projects                                   │
 │  → Contribute to open source                               │
 │  → Learn from other people's code                          │
 │  → Document what I discover                                │
