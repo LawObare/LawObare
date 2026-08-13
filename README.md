@@ -24,12 +24,8 @@ I'm **Lawrence Obare**, a software developer apprentice at **Zone01 Kisumu**.
 
 I spend most of my time learning by building: writing Go programs, designing APIs, working with PostgreSQL, using Git and Docker, and gradually moving deeper into frontend development.
 
-I'm especially interested in the part of software that is easy to hide behind abstractions:
-
-**requests → logic → data → memory → systems → users**
-
-I don't want to only know *what* makes software work.  
-I want to understand **why it works**.
+I'm especially interested in the part of software that hides behind abstractions.
+It helps me understand how we express ourselves to machine through code.
 
 ---
 
@@ -67,23 +63,20 @@ I want to understand **why it works**.
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="HTML CSS JavaScript React Vite">
 </p>
 
-### What I'm actually working on
+### What I'm currently working on
+Reinventing myself everyday, striving to always be the best version of me.
 
-<p align="left">
-<img src="./assets/current-focus.svg" width="100%" alt="Current focus allocation: backend 90%, web 60%, workflow 78%, systems 45%">
-</p>
+Learning, growing, breathing and making new friends along the way.
 
-> The bars aren't skill percentages. They're a snapshot of where my learning energy is going.
+Discovering what new thing I can fall in love with in tech and have a passion for.
 
 ---
 
-## `03 / THINGS I'VE BEEN BUILDING`
+## `03 / WHAT I'VE BEEN BUILDING`
 
 ### `progress-bar`
 
-A personal development and goal-tracking platform designed around the reality of developer training.
-
-**Why:** I wanted a system that makes long-term development goals visible instead of leaving them in my head.
+A personal development and goal-tracking platform designed around the reality of developer training. A system that helps me manage my busy developer and learning shedule, helps me track goals and gauge progress.
 
 **Exploring:** React · Vite · frontend architecture · productivity workflows
 
@@ -91,7 +84,7 @@ A personal development and goal-tracking platform designed around the reality of
 
 ### `pamoja-build`
 
-A community-focused project exploring practical digital transactions using Bitcoin and the Lightning Network.
+A community development platform that lets small communities in Africa take cahrge of their own well-being, sanitation and devopment by contributing to projects that impact them. From cleaning streets to clearing bushes, and even building community spaces. Communities can raise bitcoin which volunteers are paid in incetives to help build the community.
 
 **Exploring:** backend systems · APIs · payments · community technology
 
@@ -99,7 +92,7 @@ A community-focused project exploring practical digital transactions using Bitco
 
 ### `small-business-analytics`
 
-A project inspired by a real small-business problem: unpredictable customer traffic and the cost of preparing too much or too little.
+A project I built to help small businesses like shops or restaurants analyse customer behavior and gain long term insights. It guids them so that they don't overprepare or underprepare and make loses. This is more personal to me cause I built this for my mum's restaurant
 
 **Exploring:** data collection · analytics · business insights · backend design
 
@@ -107,9 +100,9 @@ A project inspired by a real small-business problem: unpredictable customer traf
 
 ### `farmer-information-platform`
 
-A project concept around delivering useful agricultural information to farmers through APIs, location data and messaging.
+A project built around delivering useful agricultural information to farmers through APIs, location data and messaging. Helps them adapt to climate change driven unpredictable weather patterns and helps mitigate depreciation of agro output by helping farmers adapt to changing times.
 
-**Exploring:** APIs · geolocation · SMS · real-world applications
+**Exploring:** APIs · geolocation · SMS · real-world applications . IoT
 
 ---
 
@@ -192,17 +185,7 @@ Right now, that loop is taking me deeper into:
 
 ---
 
-## `07 / 3D ACTIVITY`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LawObare/LawObare/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution profile">
-
-</div>
-
----
-
-## `08 / OPEN SOURCE`
+## `07 / OPEN SOURCE`
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
@@ -220,20 +203,15 @@ Right now, that loop is taking me deeper into:
 
 ---
 
-## `09 / OUTSIDE THE CODE`
+## `08 / OUTSIDE THE CODE`
 
-I'm interested in technology that connects software to **real people and real problems**.
+I have a deep passion for science and aviation. I believe in a future where we'll have zero emissions flight and finally get back supersonic travel though boom and overture
 
-That is why many of the things I build start from questions like:
-
-- Can software help a small business make better decisions?
-- Can developers manage their learning more intentionally?
-- Can APIs make useful information easier to reach?
-- Can technology solve a local problem without becoming unnecessarily complicated?
+I'm also extremely interested in solutions and innovations outside code. It helps me think outside the box and discover new approaches that help me develop better software solutions.
 
 ---
 
-## `10 / FIND ME`
+## `09 / FIND ME`
 
 <div align="center">
 
@@ -262,11 +240,11 @@ That is why many of the things I build start from questions like:
 │   LAW/OBARE                                  │
 │   BUILDING IN PUBLIC                         │
 │                                              │
-│   backend → full-stack → systems             │
+│    backend      full-stack    systems        │
 │                                              │
 ╰──────────────────────────────────────────────╯
 ```
 
-**If something here interests you, let's build something.**
+**Lets build together. Always looking for a buddy to learn and grow with**
 
 </div>
