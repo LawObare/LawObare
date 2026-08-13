@@ -14,13 +14,6 @@ laobare:~$git push toward becoming the best version of me
 
 </div>
 
-```
-> initializing developer_profile... 
-> loading skills................. DONE 
-> loading projects............... DONE
-> loading contributions.......... DONE   
-```
-
 ---
 
 # `LAW/OBARE`
