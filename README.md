@@ -64,11 +64,11 @@ It helps me understand how we express ourselves to machines through code.
 </p>
 
 ### What I'm currently working on
-Reinventing myself everyday, striving to always be the best version of me.
+Reinventing myself everyday, striving to always be the best version of myself.
 
 Learning, growing, breathing and making new friends along the way.
 
-Discovering what new thing I can fall in love with in tech and have a passion for.
+Discovering what new thing I can fall in love with in tech and develop a passion for.
 
 ---
 
@@ -84,7 +84,7 @@ A personal development and goal-tracking platform designed around the reality of
 
 ### `pamoja-build`
 
-A community development platform that lets small communities in Africa take charge of their own well-being, sanitation and development by contributing to projects that impact them. From cleaning streets to clearing bushes, and even building community spaces. Communities can raise bitcoin which volunteers are paid in incetives to help build the community.
+A community development platform that lets small communities in Africa take charge of their own well-being, sanitation, and development by contributing to projects that impact them. From cleaning streets to clearing bushes, and even building community spaces, communities can raise Bitcoin to pay incentives to the volunteers helping build the community.
 
 **Exploring:** backend systems · APIs · payments · community technology
 
@@ -92,7 +92,7 @@ A community development platform that lets small communities in Africa take char
 
 ### `small-business-analytics`
 
-A project I built to help small businesses like shops or restaurants analyse customer behavior and gain long term insights. It guids them so that they don't overprepare or underprepare and make loses. This is more personal to me cause I built this for my mum's restaurant
+A project I built to help small businesses like shops or restaurants analyze customer behavior and gain long-term insights. It prevents them from overpreparing or underpreparing, which causes them to face losses. This is very personal to me because I built it for my mother's restaurant, which faced that exact problem.
 
 **Exploring:** data collection · analytics · business insights · backend design
 
@@ -100,7 +100,7 @@ A project I built to help small businesses like shops or restaurants analyse cus
 
 ### `farmer-information-platform`
 
-A project built around delivering useful agricultural information to farmers through APIs, location data and messaging. Helps them adapt to climate change driven unpredictable weather patterns and helps mitigate depreciation of agro output by helping farmers adapt to changing times.
+A project built around delivering useful agricultural information to farmers through APIs, location data, and messaging. It helps them adapt to unpredictable weather patterns driven by climate change and mitigates the depreciation of agricultural output by helping farmers adapt to changing times.
 
 **Exploring:** APIs · geolocation · SMS · real-world applications . IoT
 
