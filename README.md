@@ -2,6 +2,11 @@
 laobare:~$git add new goals
 laobare:~$git commit to them
 laobare:~$git push toward becoming the best version of me
+
+> initializing developer_profile... 
+> loading skills................. DONE 
+> loading projects............... DONE
+> loading contributions.......... DONE         
 ```
 
 <div align="center">
