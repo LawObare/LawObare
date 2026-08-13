@@ -1,12 +1,7 @@
 ```
 laobare:~$git add new goals
 laobare:~$git commit to them
-laobare:~$git push toward becoming the best version of me
-
-> initializing developer_profile... 
-> loading skills................. DONE 
-> loading projects............... DONE
-> loading contributions.......... DONE         
+laobare:~$git push toward becoming the best version of me      
 ```
 
 <div align="center">
@@ -18,6 +13,13 @@ laobare:~$git push toward becoming the best version of me
 [![Profile Views](https://komarev.com/ghpvc/?username=LawObare&style=flat-square&label=VISITORS&color=00D9FF)](https://github.com/LawObare)
 
 </div>
+
+```
+> initializing developer_profile... 
+> loading skills................. DONE 
+> loading projects............... DONE
+> loading contributions.......... DONE   
+```
 
 ---
 
