@@ -6,7 +6,7 @@ laobare:~$git push toward becoming the best version of me
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Lawrence+Obare;Backend+Developer+in+Progress;Go+%7C+PostgreSQL+%7C+APIs;Building+software+that+solves+real+problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Lawrence+Obare;Software+Developer+in+the+Making;Go+%7C+PostgreSQL+%7C+APIs;Brainstorming%2C+learning+and+having+fun+along+the+way)](https://git.io/typing-svg)
 
 <br>
 
@@ -58,7 +58,7 @@ I want to understand **why it works**.
 ### Core
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=go,postgres,git,github,docker,linux" alt="Go PostgreSQL Git GitHub Docker Linux">
+<img src="https://skillicons.dev/icons?i=go,python,postgres,git,github,docker,linux" alt="Go PostgreSQL Git GitHub Docker Linux">
 </p>
 
 ### Web
