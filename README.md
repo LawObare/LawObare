@@ -25,7 +25,7 @@ I'm **Lawrence Obare**, a software developer apprentice at **Zone01 Kisumu**.
 I spend most of my time learning by building: writing Go programs, designing APIs, working with PostgreSQL, using Git and Docker, and gradually moving deeper into frontend development.
 
 I'm especially interested in the part of software that hides behind abstractions.
-It helps me understand how we express ourselves to machine through code.
+It helps me understand how we express ourselves to machines through code.
 
 ---
 
