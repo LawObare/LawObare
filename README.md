@@ -1,277 +1,254 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Amon+Mandela+Ochuka+%F0%9F%91%8B;Backend+Developer+%7C+Go+Builder;Software+Developer+Apprentice+%40+Zone01+Kisumu;Learning.+Building.+Breaking.+Fixing.+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="./assets/lawobare-banner.svg" width="100%" alt="LawObare developer banner">
 
-<img src="https://komarev.com/ghpvc/?username=LawObare&style=flat-square&color=00ADD8&label=PROFILE+VIEWS" alt="profile views"/>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Lawrence+Obare;Backend+Developer+in+Progress;Go+%7C+PostgreSQL+%7C+APIs;Building+software+that+solves+real+problems)](https://git.io/typing-svg)
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=LawObare&style=flat-square&label=VISITORS&color=00D9FF)](https://github.com/LawObare)
 
 </div>
 
 ---
 
-## `> whoami`
+# `LAW/OBARE`
 
-```go
-package main
+> **Backend-minded developer. Curious about systems. Building toward full-stack.**
 
-type Developer struct {
-	Name       string
-	Role       string
-	Training   string
-	Focus      []string
-	Learning   []string
-	Philosophy string
-}
+I'm **Lawrence Obare**, a software developer apprentice at **Zone01 Kisumu**.
 
-var amon = Developer{
-	Name:     "Amon Mandela Ochuka",
-	Role:     "Aspiring Full-Stack Developer",
-	Training: "Software Developer Apprentice @ Zone01 Kisumu",
+I spend most of my time learning by building: writing Go programs, designing APIs, working with PostgreSQL, using Git and Docker, and gradually moving deeper into frontend development.
 
-	Focus: []string{
-		"Backend development",
-		"Go",
-		"APIs",
-		"PostgreSQL",
-		"Open source",
-		"Real-world software",
-	},
+I'm especially interested in the part of software that is easy to hide behind abstractions:
 
-	Learning: []string{
-		"JavaScript",
-		"React",
-		"Vite",
-		"Docker",
-		"System design",
-	},
+**requests → logic → data → memory → systems → users**
 
-	Philosophy: "Understand the fundamentals. Build things. Keep improving.",
-}
-```
+I don't want to only know *what* makes software work.  
+I want to understand **why it works**.
 
 ---
 
-## `> ./boot`
+## `01 / NOW`
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│                    DEVELOPER PROFILE                         │
+│ CURRENT BUILD                                                │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  [ OK ] Loading developer profile                            │
-│  [ OK ] Initializing Go                                     │
-│  [ OK ] Loading backend systems                             │
-│  [ OK ] Connecting PostgreSQL                               │
-│  [ OK ] Loading API modules                                 │
-│  [ OK ] Initializing frontend stack                         │
-│  [ OK ] Git repository detected                             │
-│  [ OK ] Open-source mode enabled                            │
+│  PRIMARY        Go + Backend Development                     │
+│  DATA           PostgreSQL                                   │
+│  INTERFACES     REST APIs                                    │
+│  WORKFLOW       Git + GitHub + Docker + Linux/WSL            │
+│  FRONTEND       JavaScript + React + Vite                    │
 │                                                              │
-│  STATUS : BUILDING                                          │
-│  MODE   : LEARNING                                          │
+│  CURRENT MODE   BUILD > BREAK > DEBUG > UNDERSTAND           │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## `> cat ./about-me.md`
+## `02 / THE TOOLBOX`
 
-I'm a software developer apprentice at **Zone01 Kisumu**, focused on becoming a strong backend developer while expanding into full-stack development.
+### Core
 
-My main technical focus is **Go, PostgreSQL, APIs and backend systems**. I'm also building my frontend skills with JavaScript, React and Vite.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=go,postgres,git,github,docker,linux" alt="Go PostgreSQL Git GitHub Docker Linux">
+</p>
 
-I learn by building projects and by going deeper into the fundamentals behind the abstractions — memory, pointers, HTTP, databases, architecture, Git and how software actually works.
+### Web
 
-> **Learn it → Build it → Break it → Debug it → Understand it → Build it better.**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="HTML CSS JavaScript React Vite">
+</p>
 
----
-
-## `> ls ./stack`
-
-### Languages
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
-
----
-
-## `> ./projects`
-
-### 🚀 Progress Bar
-
-A productivity and goal-tracking platform designed around the development journey of Zone01 developers.
-
-**Focus:** productivity · OKRs · progress tracking · developer workflow
-
----
-
-### ⚡ Pamoja Build
-
-A community-oriented project exploring Bitcoin and the Lightning Network for practical digital transactions.
-
-**Focus:** Go · APIs · Bitcoin · Lightning · backend systems
-
----
-
-### 📊 Small Business Analytics
-
-A project inspired by a real-world problem: helping small businesses understand customer traffic, sales patterns and operational performance.
-
-**Focus:** analytics · data · business intelligence · backend systems
-
----
-
-### 🌱 Farmer Information Platform
-
-An exploration of APIs, location data and messaging to deliver useful information directly to farmers.
-
-**Focus:** APIs · geolocation · SMS · real-world systems
-
----
-
-## `> git log --learning`
+### What I'm actually working on
 
 ```text
-2026
+BACKEND
+██████████████████████░░   Go / APIs / PostgreSQL
 
-├── Go
-│   ├── Pointers & memory
-│   ├── Structs
-│   ├── Interfaces
-│   ├── Concurrency
-│   └── HTTP servers
-│
-├── Backend
-│   ├── REST APIs
-│   ├── PostgreSQL
-│   ├── Database design
-│   └── Backend architecture
-│
-├── Frontend
-│   ├── HTML
-│   ├── CSS
-│   ├── JavaScript
-│   ├── React
-│   └── Vite
-│
-└── Workflow
-    ├── Git
-    ├── GitHub
-    ├── Linux / WSL
-    └── Docker
+WEB
+██████████████░░░░░░░░░   JavaScript / React / Vite
+
+WORKFLOW
+███████████████████░░░░   Git / GitHub / Docker / Linux
+
+SYSTEMS
+███████████░░░░░░░░░░░   Learning the deeper fundamentals
+```
+
+> The bars aren't skill percentages. They're a snapshot of where my learning energy is going.
+
+---
+
+## `03 / THINGS I'VE BEEN BUILDING`
+
+### `progress-bar`
+
+A personal development and goal-tracking platform designed around the reality of developer training.
+
+**Why:** I wanted a system that makes long-term development goals visible instead of leaving them in my head.
+
+**Exploring:** React · Vite · frontend architecture · productivity workflows
+
+---
+
+### `pamoja-build`
+
+A community-focused project exploring practical digital transactions using Bitcoin and the Lightning Network.
+
+**Exploring:** backend systems · APIs · payments · community technology
+
+---
+
+### `small-business-analytics`
+
+A project inspired by a real small-business problem: unpredictable customer traffic and the cost of preparing too much or too little.
+
+**Exploring:** data collection · analytics · business insights · backend design
+
+---
+
+### `farmer-information-platform`
+
+A project concept around delivering useful agricultural information to farmers through APIs, location data and messaging.
+
+**Exploring:** APIs · geolocation · SMS · real-world applications
+
+---
+
+## `04 / MY LEARNING LOOP`
+
+```text
+             ┌──────────────┐
+             │    LEARN     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    BUILD     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    BREAK     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    DEBUG     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │  UNDERSTAND  │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   REBUILD    │
+             └──────┬───────┘
+                    │
+                    └──────────────→ repeat
+```
+
+Right now, that loop is taking me deeper into:
+
+- Go fundamentals
+- pointers, structs and memory
+- HTTP and API design
+- PostgreSQL and database design
+- backend architecture
+- Git and collaborative workflows
+- Docker and development environments
+- JavaScript and React
+
+---
+
+## `05 / GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LawObare&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="LawObare GitHub stats">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawObare&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="LawObare top languages">
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LawObare&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `06 / CONTRIBUTION ARCADE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LawObare/LawObare/output/snake.svg" alt="GitHub contribution snake animation">
+
+</div>
+
+---
+
+## `07 / 3D ACTIVITY`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LawObare/LawObare/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution profile">
+
+</div>
+
+---
+
+## `08 / OPEN SOURCE`
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  I want my GitHub to show more than tutorial exercises.   │
+│                                                            │
+│  → Build useful projects                                  │
+│  → Contribute to open source                               │
+│  → Learn from other people's code                          │
+│  → Document what I discover                                │
+│  → Keep shipping                                           │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `> git log --stats`
+## `09 / OUTSIDE THE CODE`
 
-<div align="center">
+I'm interested in technology that connects software to **real people and real problems**.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LawObare&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+That is why many of the things I build start from questions like:
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawObare&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LawObare&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+- Can software help a small business make better decisions?
+- Can developers manage their learning more intentionally?
+- Can APIs make useful information easier to reach?
+- Can technology solve a local problem without becoming unnecessarily complicated?
 
 ---
 
-## `> cat activity.log`
+## `10 / FIND ME`
 
 <div align="center">
 
-[![Amon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LawObare&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## `> ./arcade`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LawObare/LawObare/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LawObare/LawObare/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/LawObare/LawObare/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
----
-
-## `> ./trophies`
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LawObare&theme=algolia&no-frame=true&no-bg=true&margin-w=6)
-
-</div>
-
----
-
-## `> ./contributions`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LawObare/LawObare/output/profile-green-animate.svg" alt="3D GitHub contribution graph" width="100%">
-
-</div>
-
----
-
-## `> ./principles`
-
-```text
-01  Learn the fundamentals.
-02  Build instead of only watching tutorials.
-03  Understand the problem before writing the solution.
-04  Write code other people can understand.
-05  Break things. Debug them. Learn why they broke.
-06  Build for real problems.
-07  Keep improving.
-```
-
----
-
-## `> ping ./connect`
-
-**Email:** obarelawrence.acc@gmail.com  
-**Phone:** +254 741 133 956
-
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LawObare)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-obare-bb0390425/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/obare)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obarelawrence.acc@gmail.com)
+<a href="https://github.com/LawObare">
+<img src="https://img.shields.io/badge/GitHub-LawObare-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/lawrence-obare-bb0390425/">
+<img src="https://img.shields.io/badge/LinkedIn-Lawrence_Obare-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://dev.to/obare">
+<img src="https://img.shields.io/badge/Dev.to-obare-0A0A0A?style=for-the-badge&logo=devdotto" alt="Dev.to">
+</a>
+<a href="mailto:obarelawrence.acc@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+</a>
 
 </div>
 
@@ -280,10 +257,16 @@ An exploration of APIs, location data and messaging to deliver useful informatio
 <div align="center">
 
 ```text
-> echo "Still learning. Still building. 🚀"
-
-Backend → Full Stack → Systems
-
+╭──────────────────────────────────────────────╮
+│                                              │
+│   LAW/OBARE                                  │
+│   BUILDING IN PUBLIC                         │
+│                                              │
+│   backend → full-stack → systems             │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
+
+**If something here interests you, let's build something.**
 
 </div>

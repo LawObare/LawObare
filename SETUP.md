@@ -1,99 +1,84 @@
-# Setup — Amon's GitHub Profile README
+# LawObare GitHub Profile — Setup
 
-## 1. Create the special repository
+## Repository
 
-Create a GitHub repository whose name is **exactly your GitHub username**.
-
-For example:
-
-```text
-github.com/LawObare
-```
-
-Make it public.
-
-## 2. Copy the files
-
-Copy:
-
-```text
-README.md
-.github/workflows/contribution-graph.yml
-.github/workflows/profile-3d.yml
-```
-
-into the repository.
-
-## 3. Replace the username
-
-Open `README.md` and replace every:
+Create a **public repository named exactly:**
 
 ```text
 LawObare
 ```
 
-with your actual GitHub username.
+GitHub will recognize it as your special profile repository:
 
-There are several occurrences, so use your editor's **Find & Replace**.
+```text
+https://github.com/LawObare
+```
 
-## 4. Enable Actions
+## Files
+
+```text
+LawObare/
+├── README.md
+├── assets/
+│   └── lawobare-banner.svg
+└── .github/
+    └── workflows/
+        ├── contribution-snake.yml
+        └── profile-3d.yml
+```
+
+## 1. Upload the files
+
+Copy the files into the `LawObare` repository.
+
+## 2. Enable GitHub Actions
 
 Go to:
 
-```text
 Repository → Settings → Actions → General
-```
 
-Make sure GitHub Actions are allowed to run.
+Allow GitHub Actions to run.
 
-The workflows use the repository's automatic `GITHUB_TOKEN`; you do not need to create a personal access token for this setup.
+The workflows use the repository's built-in `GITHUB_TOKEN`.
 
-## 5. Run the workflows
+## 3. Run the workflows
 
-Go to:
+Open:
 
-```text
-Actions
-```
+Repository → Actions
 
 Run:
 
-```text
-Generate contribution graphics
-```
+- Generate contribution snake
+- Generate 3D contribution profile
 
-and:
+The first run creates the generated assets.
 
-```text
-Generate 3D contribution profile
-```
+## 4. What will animate
 
-using **Run workflow**.
+The profile uses:
 
-The contribution workflow creates an `output` branch containing the animated contribution graphics.
-
-## 6. Wait for the graphics
-
-After the workflows finish, the README will begin displaying:
-
-- animated contribution graphics
-- Pac-Man contribution graph
+- typing header animation
+- contribution snake animation
+- live GitHub stats
+- live language statistics
+- streak statistics
 - 3D contribution profile
-- live GitHub statistics
-- activity graph
-- streaks
-- trophies
+- custom SVG visual identity
 
-Some external services may take a short time to update their cached images.
+## 5. Important
 
-## 7. Important
+The profile is deliberately NOT based on your friend's README structure or identity.
 
-The README intentionally uses:
+It is built around your own themes:
 
-```text
-LawObare
-```
+- backend development
+- Go
+- PostgreSQL
+- APIs
+- learning by building
+- real-world problem solving
+- your Zone01 journey
+- your projects
 
-because I don't have your exact GitHub username from this conversation.
-
-Once you replace it, the profile is ready.
+Your phone number is intentionally not placed in the public README.

@@ -2,23 +2,22 @@ name: Generate 3D contribution profile
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "30 6 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  profile:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate 3D contribution profile
-        uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: LawObare
 
       - name: Commit generated profile
         run: |
